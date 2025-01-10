@@ -1,0 +1,46 @@
+*.egg-info
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.py
+# Python virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg
+*.egg-info/
+__pycache__/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Application specific
+tasks.json
+*.log
+.coverage
+htmlcov/
+
+# Dependency management
+pip-log.txt
+pip-delete-this-directory.txt
+requirements.txt.md5
+
+# Testing
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+htmlcov/
