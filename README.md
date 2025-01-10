@@ -14,12 +14,12 @@ A simple command-line interface (CLI) application to track and manage your tasks
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/task-cli.git
+git clone https://github.com/officialsuhassuresh/task-tracker.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd task-cli
+cd task-tracker
 ```
 
 3. Create and activate a virtual environment:
