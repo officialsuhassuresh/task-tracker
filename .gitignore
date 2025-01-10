@@ -4,7 +4,6 @@
 *.pyd
 *.pyw
 *.pyz
-*.py
 # Python virtual environment
 venv/
 env/
